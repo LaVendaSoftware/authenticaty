@@ -1,6 +1,6 @@
 # Authenticaty
 
-Authenticaty is a gem that encapsulates components using Phlex.
+Authenticaty is a gem that provides authentication utilities and helpers for Rails applications using Devise.
 
 ## Installation
 

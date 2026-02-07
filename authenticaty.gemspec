@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["Lavenda Software"]
   spec.email = ["lavenda@lavenda.com.br"]
 
-  spec.summary = "Encapsulate components using Phlex."
-  spec.description = "This gem encapsulates components using phlex-rails."
+  spec.summary = "Authentication utilities for Rails applications."
+  spec.description = "This gem provides authentication utilities and helpers for Rails applications using Devise."
   spec.homepage = "https://github.com/LavendaSoftware/authenticaty"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
