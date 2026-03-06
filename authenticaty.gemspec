@@ -34,7 +34,10 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   # Uncomment to register a new dependency of your gem
-  # spec.add_dependency "example-gem", "~> 1.0"
+  # https://github.com/heartcombo/devise#getting-started
+  spec.add_dependency "devise", ">= 0"
+  # https://github.com/tigrish/devise-i18n#customizing-views
+  spec.add_dependency "devise-i18n", ">= 0"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
